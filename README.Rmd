@@ -1,5 +1,5 @@
 ---
-title: "kospacing 한글 자동 띄어쓰기 패키지 사용법"
+title: "kospacing 한글 띄어쓰기 패키지 사용법"
 output: rmarkdown::github_document
 ---
 
