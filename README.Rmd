@@ -36,7 +36,7 @@ df
 
 ## 참고 자료
 
-`kospacing`은 전희원님이 개발한 [한글 자동 띄어쓰기 API](http://freesearch.pe.kr/archives/4647)를 쉽게 활용할 수 있도록 함수로 구현한 것입니다. [박찬엽님의 코드](https://mrchypark.github.io/r/httr/api/한글-띄어쓰기-API-이용하기.html)를 참고하였습니다.
+`kospacing`은 전희원님이 개발한 [한글 자동 띄어쓰기 API](http://freesearch.pe.kr/archives/4647)를 쉽게 활용할 수 있도록 만든 패키지입니다. [박찬엽님의 코드](https://mrchypark.github.io/r/httr/api/한글-띄어쓰기-API-이용하기.html)를 참고하여 함수를 작성했습니다.
 
 - [전희원, 딥러닝 기반 한글 자동 띄어쓰기 API 공개](http://freesearch.pe.kr/archives/4647)
 - [박찬엽, 한글 띄어쓰기 API 이용하기](https://mrchypark.github.io/r/httr/api/한글-띄어쓰기-API-이용하기.html)
